@@ -1,0 +1,43 @@
+Blender texture pathway
+
+Press M -> Merge by Distance
+
+Edit mode (Top left corner) -TAB
+
+Select model
+
+Press A -> select ALL Faces
+
+Press U -> Smart UV Project.
+- Island Margin to 0.03
+
+Get to shading window
+
+see if principle BSDF node is there, if not make
+
+drag drop image in to node connect to BSDF to base color
+
+__
+
+texture blocks and other things
+
+Edit mode (Top left corner) -TAB
+
+hover over parts wanting to texture diff and press L - for linked
+
+Go to material- Right menu and assign to new material
+
+drag texture into nodes - create BSDF
+
+control T to create control to change scale
+
+
+__
+
+Camera is ctl alt numpad 0 
+
+output options in right window
+
+f12 to take picture
+
+
